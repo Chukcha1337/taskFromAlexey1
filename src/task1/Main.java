@@ -3,7 +3,7 @@ package task1;
 public class Main {
     public static void main(String[] args) {
         final int number = 3;
-        String tittle = String.format("Введите число, для которого необходимо ухнать, больше ли оно чем " +
+        String tittle = String.format("Введите число, для которого необходимо узнать, больше ли оно чем " +
                 "(%d)", number);
         String failMessage = "Ошибка ввода";
 
